@@ -1,2 +1,1 @@
-# compute-VN30
-Compute VN30 indicates
+# Compute VN30 indicates
